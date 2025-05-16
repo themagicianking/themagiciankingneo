@@ -11,3 +11,14 @@ main {
   background-color: #7feba8;
   padding: 1em;
 }
+
+img {
+  width: 100%;
+}
+
+.profile {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
